@@ -10,4 +10,4 @@
 
 Screenshot of the demo project running:
 
-![Screenshot](Extras/images/ss.png)
+<kbd><img src="Extras/images/ss.png" style="max-width: 280px" /></kbd>
