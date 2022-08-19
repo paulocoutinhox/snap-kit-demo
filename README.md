@@ -10,4 +10,4 @@
 
 Screenshot of the demo project running:
 
-<kbd><img src="Extras/images/ss.png" style="max-width: 280px" /></kbd>
+<kbd><img src="Extras/images/ss.png" width="280" style="max-width: 280px" /></kbd>
